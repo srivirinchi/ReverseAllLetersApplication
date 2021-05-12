@@ -1,0 +1,16 @@
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.exe
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.deps.json
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.runtimeconfig.json
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.runtimeconfig.dev.json
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.dll
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ref\ReverseAllLeters.dll
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\bin\Debug\net5.0\ReverseAllLeters.pdb
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.csprojAssemblyReference.cache
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.AssemblyInfoInputs.cache
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.AssemblyInfo.cs
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.csproj.CoreCompileInputs.cache
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.dll
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ref\ReverseAllLeters.dll
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.pdb
+C:\Users\Srivirinchi\source\repos\ReverseAllLeters\ReverseAllLeters\obj\Debug\net5.0\ReverseAllLeters.genruntimeconfig.cache
